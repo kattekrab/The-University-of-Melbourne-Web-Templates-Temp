@@ -1,10 +1,11 @@
-# Web Brand Guidelines Templates
+Web Brand Guidelines Templates
+============================================
 
 These templates have been created to comply with the Web Brand Guidelines
 
 
 
-== Copyright Notice == 
+Copyright Notice
 ======================
 
 Copyright 2011 The University of Melbourne
